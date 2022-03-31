@@ -26,7 +26,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushi8855"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushi8855" /></a></p><br><br>
 
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi8855&show_icons=true&locale=en&layout=compact" alt="ayushi8855" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi8855&show_icons=true&locale=en&layout=compact" alt="ayushi8855" /></p>
 <br></br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi8855&show_icons=true&locale=en" alt="ayushi8855" /></p>
 <br></br>
