@@ -4,11 +4,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushi8855&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi8855" /> </p>
 <p  align="center">
 - 🌱 I’m currently learning **React.js**
-
+</p>
+<p  align="center">
 - 💬 Ask me about **anything about MERN**
-
+  </p>
+<p  align="center">
 - 📫 How to reach me **ayushi8855@gmail.com**
-
+  </p>
+<p  align="center">
 - ⚡ Fun fact **I can be sleeply after having coffee**
 </p>
 <h3 align="center">Connect with me:</h3>
