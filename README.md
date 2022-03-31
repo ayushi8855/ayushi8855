@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Web Developer, I'm passinate about learning thing and sharing my knowledge, looking to pursue a career in the software engineering domain. Possess excellent knowledge in MERN stack. Ability to learn things quickly and capable of working in a fast paced and team-driven environment</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushi8855&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi8855" /> </p>
-
+<p  align="center">
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **anything about MERN**
@@ -10,7 +10,7 @@
 - 📫 How to reach me **ayushi8855@gmail.com**
 
 - ⚡ Fun fact **I can be sleeply after having coffee**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashi-ayushi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashi-ayushi/" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ayushi8855"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushi8855" /></a></p><br><br>
 
-<p><img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi8855&show_icons=true&locale=en&layout=compact" alt="ayushi8855" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi8855&show_icons=true&locale=en&layout=compact" alt="ayushi8855" /></p>
 <br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushi8855&show_icons=true&locale=en" alt="ayushi8855" /></p>
 <br></br>
