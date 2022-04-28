@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayushi Jain</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ayushi Jain</h1> -->
 <h1>
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ayushi Jain
 </h1>
 <h3 align="center">A Fullstack Web Developer, I'm passinate about learning thing and sharing my knowledge, looking to pursue a career in the software engineering domain. Possess excellent knowledge in MERN stack. Ability to learn things quickly and capable of working in a fast paced and team-driven environment</h3>
 
