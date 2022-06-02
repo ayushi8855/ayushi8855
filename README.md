@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Ayushi Jain</h1> -->
 <h1 align="center">
   
-Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ayushi Jain
+Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="10px"/>, I'm Ayushi Jain
 </h1>
 <div align="center"><img  src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="300px"/></div>
 
